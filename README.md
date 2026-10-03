@@ -11,7 +11,6 @@ CSE Student @ CBIT, Hyderabad | Java & C++ | Building toward Cybersecurity
 - 🇺🇸 Grew up and lived in the **United States** through high school, before moving to Hyderabad for college
 - 🎓 Currently pursuing a B.E. in **Computer Science and Engineering** at Chaitanya Bharathi Institute of Technology (CBIT), Class of 2029
 - 🔐 Took **networking classes throughout most of high school** in the US, and competed in the **National Cyber League (NCL)** — ranked **19th out of 647 participating high school teams** nationally
-- 🎤 Anchored an **international paper presentation conference**, moderating sessions for a multi-institutional audience
 - 🌱 Currently strengthening **Java, C++, and Data Structures & Algorithms**, with cybersecurity as the long-term direction
 
 ### What I'm Working On
